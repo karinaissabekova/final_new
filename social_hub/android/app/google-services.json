@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217590454475",
+    "project_id": "socialhub-f7abe",
+    "storage_bucket": "socialhub-f7abe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217590454475:android:46201e7adfccf9a3dca34e",
+        "android_client_info": {
+          "package_name": "com.example.social_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC49_cKdImZh1bUjZ4VNULfNxfI5oNNc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
